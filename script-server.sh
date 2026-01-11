@@ -1,6 +1,7 @@
 #!/bin/bash
 
 PACKAGES=(
+sudo
 htop
 mc
 btop
