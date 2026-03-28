@@ -4,6 +4,7 @@ PACKAGES=(
 sudo
 htop
 mc
+vim
 btop
 fastfetch
 fail2ban
