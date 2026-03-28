@@ -12,7 +12,6 @@ curl
 git
 openssh-client
 ufw
-sshd-client
 )
 
 sudo apt update && sudo apt upgrade -y
