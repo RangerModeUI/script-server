@@ -6,7 +6,6 @@ htop
 mc
 vim
 btop
-fastfetch
 fail2ban
 curl
 git
